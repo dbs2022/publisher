@@ -1,2 +1,0 @@
-# publisher
-appdb publisher area
