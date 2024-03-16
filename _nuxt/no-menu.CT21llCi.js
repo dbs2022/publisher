@@ -1,0 +1,2 @@
+import{_ as c,a as n,b as _}from"./v-footer.BzG-AbGD.js";import{_ as l,c as r,b as e,w as f,o as m,a as i,q as d}from"./entry.BQcnCV_D.js";import"./nuxt-link.B6b0vJww.js";import"./v-button.vue.3KuPtapd.js";const p={},u={class:"flex h-full flex-col"},x={class:"flex-grow"};function w(o,h){const s=n,t=c,a=_;return m(),r("div",u,[e(s,{class:"w-full"}),e(t,{class:"flex w-full flex-grow gap-8"},{default:f(()=>[i("main",x,[d(o.$slots,"default")])]),_:3}),e(a,{class:"w-full"})])}const b=l(p,[["render",w]]);export{b as default};
+//# sourceMappingURL=no-menu.CT21llCi.js.map
