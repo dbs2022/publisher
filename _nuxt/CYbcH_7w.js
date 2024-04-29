@@ -1,2 +1,0 @@
-import{f as r,ao as a,B as i,o as _,c as p,j as u,_ as d}from"./i5TJQzka.js";const m={class:"spinner"},f=r({__name:"v-spinner",props:{size:{default:"7rem"},thickness:{}},setup(n){a(e=>({"2a33726e":t.size,"87b9c5ac":u(c)}));const t=n,c=i(()=>{if(t.thickness)return t.thickness;const[e,s]=o(t.size);return`${(e+1)*.086}${s}`});function o(e){const s=e.match(/(^\d*\.?\d*)([^\d]*)$/);return s?[+s[1],s[2]]:[0,""]}return(e,s)=>(_(),p("div",m))}}),k=d(f,[["__scopeId","data-v-ece9dc25"]]);export{k as _};
-//# sourceMappingURL=CYbcH_7w.js.map
