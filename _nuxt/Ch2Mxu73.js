@@ -1,0 +1,2 @@
+import{aD as a}from"./CQGbWGcf.js";function m(o){return{all:o=o||new Map,on:function(n,e){var t=o.get(n);t?t.push(e):o.set(n,[e])},off:function(n,e){var t=o.get(n);t&&(e?t.splice(t.indexOf(e)>>>0,1):o.set(n,[]))},emit:function(n,e){var t=o.get(n);t&&t.slice().map(function(r){r(e)}),(t=o.get("*"))&&t.slice().map(function(r){r(n,e)})}}}const c=m();function p(){return new Proxy(c,{get(n,e,t){const r=Reflect.get(n,e,t);return e!=="on"?r:new Proxy(r,{apply(f,u,i){return a(()=>{c.off(...i)}),Reflect.apply(f,u,i)}})}})}export{p as u};
+//# sourceMappingURL=Ch2Mxu73.js.map

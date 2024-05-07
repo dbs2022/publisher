@@ -1,0 +1,2 @@
+import{_ as r}from"./DwB0_ZuQ.js";import{f as c,r as _,o as l,c as f,b as a,w as n,d as s,j as t,a7 as p}from"./CQGbWGcf.js";import"./DV-o3S7m.js";import"./BZpUhvHW.js";const u={class:"flex flex-col gap-2"},L=c({__name:"auth",setup(m){const e=p(),i=_(!1);return(d,g)=>{const o=r;return l(),f("div",u,[a(o,{to:t(e).public.loginURL,variant:"primary",loading:t(i)},{default:n(()=>[s(" Login ")]),_:1},8,["to","loading"]),a(o,{to:t(e).public.registerURL},{default:n(()=>[s(" Create publisher account ")]),_:1},8,["to"])])}}});export{L as default};
+//# sourceMappingURL=DajnwG21.js.map

@@ -1,2 +1,0 @@
-import{f as c,o as t,c as r,k as _,w as m,b as l,m as p,K as u,I as f}from"./KoDMvfaN.js";import{_ as i}from"./CpCrrJFV.js";const d={class:"mb-5 flex items-center gap-2 text-2xl font-medium"},h=c({__name:"v-h1",props:{backTo:{}},setup(o){const e=o;return(n,x)=>{const s=f,a=i;return t(),r("h1",d,[e.backTo?(t(),_(a,{key:0,to:e.backTo,class:"flex h-8 w-8 items-center justify-center rounded-full bg-blue-700 text-white"},{default:m(()=>[l(s,{name:"tabler:arrow-left"})]),_:1},8,["to"])):p("",!0),u(n.$slots,"default")])}}});export{h as _};
-//# sourceMappingURL=Ge0PHlf4.js.map
