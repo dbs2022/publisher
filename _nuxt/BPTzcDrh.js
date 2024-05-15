@@ -1,2 +1,0 @@
-import{_ as r}from"./0zVE9uvV.js";import{f as c,r as _,c as l,b as a,w as n,k as t,o as f,d as s,a9 as p}from"./DStTWlY9.js";import"./C3Yl993e.js";import"./CDYnoKLq.js";const u={class:"flex flex-col gap-2"},L=c({__name:"auth",setup(m){const e=p(),i=_(!1);return(d,g)=>{const o=r;return f(),l("div",u,[a(o,{to:t(e).public.loginURL,variant:"primary",loading:t(i)},{default:n(()=>[s(" Login ")]),_:1},8,["to","loading"]),a(o,{to:t(e).public.registerURL},{default:n(()=>[s(" Create publisher account ")]),_:1},8,["to"])])}}});export{L as default};
-//# sourceMappingURL=BPTzcDrh.js.map
