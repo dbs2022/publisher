@@ -1,2 +1,0 @@
-import{a8 as t}from"./CoR_3EFL.js";function i(){return t.get("get_service_tokens")}function r(e){return t.post("create_service_token",{data:e})}function s(e){return t.post("delete_service_token",{data:e})}function c(e={}){return t.get("get_test_devices",{params:e})}function o(e){return t.post("edit_test_device",{data:e})}function a(e){return t.post("delete_test_device",{data:e})}function u(){return t.get("get_failure_domains")}export{u as a,i as b,r as c,a as d,o as e,s as f,c as g};
-//# sourceMappingURL=Bj4_nITN.js.map
